@@ -5,6 +5,7 @@ import { Home } from "./pages/home";
 import { Menu } from "./pages/menu";
 import { Pics } from "./pages/pics";
 import { School } from "./pages/school";
+import { Star } from "./pages/star";
 import { Time } from "./pages/time";
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
       <School />
       <Time />
       <Pics />
+      <Star />
     </>
   );
 }
