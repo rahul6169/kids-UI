@@ -1,7 +1,10 @@
 import "./App.css";
 import { Card } from "./pages/card";
+import { Contact } from "./pages/contact";
+import { CopyRight } from "./pages/copyright";
 import { Entertainment } from "./pages/entertainment";
 import { Home } from "./pages/home";
+import { Icons } from "./pages/icons";
 import { Menu } from "./pages/menu";
 import { Pics } from "./pages/pics";
 import { School } from "./pages/school";
@@ -21,6 +24,9 @@ function App() {
       <Pics />
       <Star />
       <TimeLine />
+      <Contact />
+      <Icons />
+      <CopyRight />
     </>
   );
 }

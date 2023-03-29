@@ -68,10 +68,11 @@ p {
 }
 
 .children-image {
+
   height: 100%;
   width: 100%;
   border-radius: 30px;
-  border: 2px dashed;
+  border: 2px dashed #fa9db7;
 }
 
 .entertainment-background {
@@ -288,4 +289,78 @@ p {
  }
 .align-timeline-row{
   justify-content:center ;
+}
+.timeline-background{
+  background-color: #f2f6ff;
+}
+.input-box-contact-page{
+  font-family: 'Muli', sans-serif;
+  padding: 0.8rem 1.2rem;
+    background-color: #ffffff;
+    border: 1px solid #ebe9e5;
+    color: #70747f;
+    transition: 0.4s;
+    font-size: 1.1rem;
+    box-shadow: none;
+    outline: none;
+    border-radius: 26px;
+    width: 80%;
+}
+.font-icon-twitter{
+  width: 20px;
+  height: 20px;
+  color:#fff;
+  background-color: #45b3df;
+border-radius: 100%;
+}
+.font-icon-facebook{
+  width: 20px;
+  height: 20px;
+  color:#fff;
+  background-color: #456eda;
+border-radius: 100%;
+}
+.font-icon-instagram{
+  width: 20px;
+  height: 20px;
+  color:#fff;
+  background-color: #f985a5;
+border-radius: 100%;
+}
+.font-icon-youtube{
+  width: 20px;
+  height: 20px;
+  color:#fff;
+  background-color: #456eda;
+border-radius: 100%;
+}
+.font-icon-behance{
+  width: 20px;
+  height: 20px;
+  color:#fff;
+  background-color: #45b3df;
+border-radius: 100%;
+}
+.copyright-text{
+    padding-bottom: 15px;
+    background-color: #223668;
+    color: #b1bee0;
+    font-family: 'Muli', sans-serif;
+    font-size: 1.1rem;
+    font-weight: 400;
+}
+.svg-color{
+  fill: #2d4073;
+}
+
+.move-upside .twitter-hover {
+  position: relative;
+  top: 0;
+  transition: top ease 0.3s;
+}
+.move-upside:hover .twitter-hover {
+  top: -10px;
+}
+.div-size{
+  width: 50px;
 }
