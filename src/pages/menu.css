@@ -242,3 +242,40 @@ p {
   transition: 0.4s;
   cursor: pointer;
 }
+.lorem-ipsum-star-text{
+  font-size: 3rem;
+  color: #12265a;
+  font-family: 'Nunito', sans-serif;
+  font-weight: 900;
+}
+.star-text-points{
+
+    font-family: 'Nunito', sans-serif;
+    font-size: 1.75rem;
+    font-weight: 900;
+    color: #12265a;
+}
+.timeline-year{
+  color: #45b3df;
+  font-family: 'Nunito', sans-serif;
+  font-size: 1.75rem;
+  font-weight: 900;
+  }
+  .lorem-timeline-text{
+    width: 50%;
+  }
+  .pic-widthh{
+    width: 90%;
+    height: 90%;
+    border-radius: 30px;
+    position: relative
+  }
+  .star-images{
+    width: 40px;
+    height: 40px;
+  }
+  .align-items-images{
+    /* align-items:end; */
+    display: flex;
+  }
+

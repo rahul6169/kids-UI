@@ -7,6 +7,7 @@ import { Pics } from "./pages/pics";
 import { School } from "./pages/school";
 import { Star } from "./pages/star";
 import { Time } from "./pages/time";
+import { TimeLine } from "./pages/timeline";
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
       <Time />
       <Pics />
       <Star />
+      <TimeLine />
     </>
   );
 }
