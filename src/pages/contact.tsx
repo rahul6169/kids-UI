@@ -34,6 +34,7 @@ const Contact = () => {
             placeholder="Message"
             className="input-box-contact-page mb-4"
           ></textarea>
+
           <button className="btn">Post A Comment</button>
         </div>
       </div>

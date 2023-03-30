@@ -1,7 +1,7 @@
 const TimeLine = () => {
   return (
-    <div className="timeline-background">
-      <div className="row mb-5 pb-5 align-row-timeline  align-timeline-row ">
+    <div className="timeline-background timeline">
+      <div className="row mb-5 pb-5 align-row-timeline  align-timeline-row">
         <div className="col-lg-6 col-md-6 pe-5 col-sm-12 mt-4 text-end">
           <h3 className="timeline-year">2012</h3>
           <h3 className="star-text-points">Outdoor Activity</h3>
@@ -9,7 +9,7 @@ const TimeLine = () => {
             Lorem ipsum dolor sit amet, consectetur adipiscing elit.
           </p>
         </div>
-        <div className="col-lg-6 text-start ps-5">
+        <div className="col-lg-6 ps-5 text-start">
           <img className="image-timeline" src="../assets/timeline1.jpg"></img>
         </div>
       </div>

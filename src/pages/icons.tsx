@@ -39,7 +39,7 @@ const Icons = () => (
     <div className="move-upside col-1 div-size">
       <div className="text-center mb-5">
         <FontAwesomeIcon
-          className="font-icon-twitter twitter-hover  p-2 m-2"
+          className="font-icon-youtube twitter-hover  p-2 m-2"
           icon={faYoutube}
         />
       </div>
@@ -48,7 +48,7 @@ const Icons = () => (
     <div className="move-upside col-1 div-size">
       <div className="text-center mb-5">
         <FontAwesomeIcon
-          className="font-icon-twitter twitter-hover  p-2 m-2"
+          className="font-icon-behance twitter-hover  p-2 m-2"
           icon={faBehance}
         />
       </div>
