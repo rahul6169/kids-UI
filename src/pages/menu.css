@@ -19,6 +19,14 @@
 .menu-items {
   justify-content: center;
 }
+.home-page-text {
+  color: #12265a;
+  font-weight: 900;
+  font: 27.8px;
+  font-family: "Nunito", sans-serif;
+  transition: 0.4s;
+}
+
 li {
   padding: 25px;
 }
@@ -42,7 +50,6 @@ p {
 }
 .btn {
   background: #ffc85b;
-  color: #ffffff;
   border-radius: 28px;
   font-size: 1.1rempx;
   padding: 10px 20px 10px 20px;

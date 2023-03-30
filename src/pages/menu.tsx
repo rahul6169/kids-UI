@@ -24,22 +24,26 @@ const Menu = () => {
         >
           <ul className="navbar-nav me-5">
             <li className="nav-item">
-              <a className="nav-link fw-bold " aria-current="page" href="#Home">
+              <a
+                className="nav-link  home-page-text"
+                aria-current="page"
+                href="#Home"
+              >
                 HOME
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link fw-bold" href="#About">
+              <a className="nav-link home-page-text" href="#About">
                 ABOUT
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link fw-bold" href="#About">
+              <a className="nav-link home-page-text" href="#timeline">
                 TIMELINE
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link fw-bold" href="#About">
+              <a className="nav-link home-page-text" href="#contact">
                 CONTACT
               </a>
             </li>

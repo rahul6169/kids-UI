@@ -1,7 +1,7 @@
 const Contact = () => {
   return (
     <>
-      <div className="row ps-5 mb-5 pb-5">
+      <div className="row ps-5 mb-5 pb-5" id="contact">
         <div className="col-lg-6">
           <iframe
             className="google-map"

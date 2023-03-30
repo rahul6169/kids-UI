@@ -1,6 +1,6 @@
 const TimeLine = () => {
   return (
-    <div className="timeline-background timeline">
+    <div className="timeline-background timeline" id="timeline">
       <div className="row mb-5 pb-5 align-row-timeline  align-timeline-row">
         <div className="col-lg-6 col-md-6 pe-5 col-sm-12 mt-4 text-end">
           <h3 className="timeline-year">2012</h3>
