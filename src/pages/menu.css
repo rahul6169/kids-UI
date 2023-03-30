@@ -48,20 +48,15 @@ p {
   padding: 10px 20px 10px 20px;
   text-decoration: none;
   border: 2px dashed #fa9db7;
-   
-  
 }
 
 .btn:hover {
   background: #007bff;
   text-decoration: none;
   border: 2px dashed #fa9db7;
-  
 }
 
-
 .children-image {
-
   height: 100%;
   width: 100%;
   border-radius: 30px;
@@ -104,245 +99,244 @@ p {
   background-position: 0% 74%;
 }
 
-.card-column{
-  padding:3% 2%;
+.card-column {
+  padding: 3% 2%;
 }
-.card-playground-background-color{
+.card-playground-background-color {
   padding-top: 26px;
   padding-bottom: 26px;
   color: #ffffff;
   background: #fa9db7;
   border-radius: 30px;
 }
-.card-entertainment-background-color{
+.card-entertainment-background-color {
   padding-top: 26px;
   padding-bottom: 26px;
   color: #ffffff;
   background: #45b3df;
   border-radius: 30px;
 }
-.card-environment-background-color{
+.card-environment-background-color {
   padding-top: 26px;
   padding-bottom: 26px;
   color: #ffffff;
   background: #ffc85b;
   border-radius: 30px;
 }
-.card-text{
+.card-text {
   width: 55%;
   display: -webkit-inline-box;
 }
-.school-educational-image{
+.school-educational-image {
   width: 80px;
 }
-.center-container{
+.center-container {
   align-items: center;
   justify-content: center;
 }
-.school-education-text{
+.school-education-text {
   font-size: 3rem;
   font-weight: 900;
   color: #12265a;
 }
-.font-family-nunito{
+.font-family-nunito {
   font-family: "Nunito", sans-serif;
 }
-.font-family-muli{
-  font-family: 'Muli', sans-serif;
+.font-family-muli {
+  font-family: "Muli", sans-serif;
 }
-.lorem-ipsum-text{
+.lorem-ipsum-text {
   font-size: 1.1rem;
   color: #767676;
   font-weight: 400;
   line-height: 2;
   letter-spacing: 0;
 }
-.school-education-lorem-text{
+.school-education-lorem-text {
   width: 55%;
   text-align: center;
   display: inline-flex;
   margin-top: 2rem;
   margin-bottom: 2rem;
 }
-.school-educational-title-text{
-  font-family: 'Nunito', sans-serif;
-    font-size: 1.75rem;
-    font-weight: 900;
-    color: #12265a;
+.school-educational-title-text {
+  font-family: "Nunito", sans-serif;
+  font-size: 1.75rem;
+  font-weight: 900;
+  color: #12265a;
 }
-.school-educational-title-text:hover{
+.school-educational-title-text:hover {
   color: #e83e8c;
   transition: 0.5s;
 }
-.time-background{
+.time-background {
   background-color: #88d4f2;
 }
 
-.time-number-text{
+.time-number-text {
   color: #fff;
-    font-weight: 900;
-    font-family: 'Nunito', sans-serif;
-    font-size: 3rem;
+  font-weight: 900;
+  font-family: "Nunito", sans-serif;
+  font-size: 3rem;
 }
-.time-hour-text{
-  font-family: 'Nunito', sans-serif;
+.time-hour-text {
+  font-family: "Nunito", sans-serif;
   font-size: 1.75rem;
   font-weight: 900;
   color: #fff;
 }
 .svg-2 {
-  fill:#fff;
-  
+  fill: #fff;
+
   margin-top: -8px;
 }
-.svg-1{
+.svg-1 {
   fill: #fff;
 }
-.pic-width{
+
+.pic-width-6 .pic-width {
   width: 100%;
   height: 95%;
   border-radius: 30px;
-  position: relative
-}
-.pic-width:hover{
   position: relative;
-    transition: 0.5s;
-    margin: 0.3rem;
-    border-radius: 30px;
-    overflow: hidden;
+  transition: 0.5s;
 }
-.star-text{
+.pic-width-6:hover .pic-width {
+  padding-top: 1rem;
+  padding-left: 1rem;
+  overflow: hidden;
+}
+
+.star-text {
   background: #f4f8fa;
   font-weight: 900;
   margin: 0px;
-      font-family: 'Nunito', sans-serif;
-      font-size: 1.75rem;
+  font-family: "Nunito", sans-serif;
+  font-size: 1.75rem;
 }
 .text-boxes {
   background-color: #f4f8fa;
-  border: 3px dashed #FA9DB7;
+  border: 3px dashed #fa9db7;
   border-radius: 25px;
   padding: 30px;
-
 }
 .text-boxes h2 {
   font-size: 1.75rem;
   font-weight: 900;
-  color: #12265A;
-  font-family: 'Nunito', sans-serif;
+  color: #12265a;
+  font-family: "Nunito", sans-serif;
 }
 .text-boxes h2:hover {
-  color: #FA9DB7;
+  color: #fa9db7;
   transition: 0.4s;
   cursor: pointer;
 }
-.lorem-ipsum-star-text{
+.lorem-ipsum-star-text {
   font-size: 3rem;
   color: #12265a;
-  font-family: 'Nunito', sans-serif;
+  font-family: "Nunito", sans-serif;
   font-weight: 900;
 }
-.star-text-points{
-
-    font-family: 'Nunito', sans-serif;
-    font-size: 1.75rem;
-    font-weight: 900;
-    color: #12265a;
-}
-.timeline-year{
-  color: #45b3df;
-  font-family: 'Nunito', sans-serif;
+.star-text-points {
+  font-family: "Nunito", sans-serif;
   font-size: 1.75rem;
   font-weight: 900;
-  }
-  .lorem-timeline-text{
-    width: 50%;
-    float: right;
-  }
-  .lorem-timeline-text-left{
-    width: 50%;
-    float: left;
-  }
-  .pic-widthh{
-    width: 90%;
-    height: 90%;
-    border-radius: 30px;
-    position: relative
-  }
-  .star-images{
-    width: 40px;
-    height: 40px;
-  }
+  color: #12265a;
+}
+.timeline-year {
+  color: #45b3df;
+  font-family: "Nunito", sans-serif;
+  font-size: 1.75rem;
+  font-weight: 900;
+}
+.lorem-timeline-text {
+  width: 50%;
+  float: right;
+}
+.lorem-timeline-text-left {
+  width: 50%;
+  float: left;
+}
+.pic-widthh {
+  width: 90%;
+  height: 90%;
+  border-radius: 30px;
+  position: relative;
+}
+.star-images {
+  width: 40px;
+  height: 40px;
+}
 
- .image-timeline{
+.image-timeline {
   width: 250px;
   border-radius: 50%;
   vertical-align: middle;
-    border-style: none;
- }
-.align-timeline-row{
-  justify-content:center ;
+  border-style: none;
 }
-.timeline-background{
+.align-timeline-row {
+  justify-content: center;
+}
+.timeline-background {
   background-color: #f2f6ff;
 }
-.input-box-contact-page{
-  font-family: 'Muli', sans-serif;
+.input-box-contact-page {
+  font-family: "Muli", sans-serif;
   padding: 0.8rem 1.2rem;
-    background-color: #ffffff;
-    border: 1px solid #ebe9e5;
-    color: #70747f;
-    transition: 0.4s;
-    font-size: 1.1rem;
-    box-shadow: none;
-    outline: none;
-    border-radius: 26px;
-    width: 80%;
+  background-color: #ffffff;
+  border: 1px solid #ebe9e5;
+  color: #70747f;
+  transition: 0.4s;
+  font-size: 1.1rem;
+  box-shadow: none;
+  outline: none;
+  border-radius: 26px;
+  width: 80%;
 }
-.font-icon-twitter{
+.font-icon-twitter {
   width: 20px;
   height: 20px;
-  color:#fff;
+  color: #fff;
   background-color: #45b3df;
-border-radius: 100%;
+  border-radius: 100%;
 }
-.font-icon-facebook{
+.font-icon-facebook {
   width: 20px;
   height: 20px;
-  color:#fff;
+  color: #fff;
   background-color: #456eda;
-border-radius: 100%;
+  border-radius: 100%;
 }
-.font-icon-instagram{
+.font-icon-instagram {
   width: 20px;
   height: 20px;
-  color:#fff;
+  color: #fff;
   background-color: #f985a5;
-border-radius: 100%;
+  border-radius: 100%;
 }
-.font-icon-youtube{
+.font-icon-youtube {
   width: 20px;
   height: 20px;
-  color:#fff;
+  color: #fff;
   background-color: #456eda;
-border-radius: 100%;
+  border-radius: 100%;
 }
-.font-icon-behance{
+.font-icon-behance {
   width: 20px;
   height: 20px;
-  color:#fff;
+  color: #fff;
   background-color: #45b3df;
-border-radius: 100%;
+  border-radius: 100%;
 }
-.copyright-text{
-    padding-bottom: 15px;
-    background-color: #223668;
-    color: #b1bee0;
-    font-family: 'Muli', sans-serif;
-    font-size: 1.1rem;
-    font-weight: 400;
+.copyright-text {
+  padding-bottom: 15px;
+  background-color: #223668;
+  color: #b1bee0;
+  font-family: "Muli", sans-serif;
+  font-size: 1.1rem;
+  font-weight: 400;
 }
-.svg-color{
+.svg-color {
   fill: #2d4073;
 }
 
@@ -354,7 +348,7 @@ border-radius: 100%;
 .move-upside:hover .twitter-hover {
   top: -10px;
 }
-.div-size{
+.div-size {
   width: 50px;
 }
 .timeline {
@@ -364,7 +358,7 @@ border-radius: 100%;
 }
 
 .timeline::after {
-  content: '';
+  content: "";
   position: absolute;
   width: 6px;
   background-color: white;
@@ -374,13 +368,13 @@ border-radius: 100%;
   margin-left: -3px;
 }
 .container::after {
-  content: '';
+  content: "";
   position: absolute;
   width: 25px;
   height: 25px;
   right: -17px;
   background-color: white;
-  border: 4px solid #FF9F55;
+  border: 4px solid #ff9f55;
   top: 15px;
   border-radius: 50%;
   z-index: 1;
